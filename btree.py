@@ -43,8 +43,8 @@ class BTree(BTNode, Board):
 
     def add_children(self):
         """
-                Adds children to the binary tree.
-                """
+        Adds children to the binary tree.
+        """
         def recurse1():
             pass
         # Helper function to search for item's position
